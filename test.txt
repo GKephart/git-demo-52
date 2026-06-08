@@ -1,0 +1,1 @@
+You can only modify text while in insert mode. to exit insert mode use the escape key. The reason I am teching us vim is becuase it is the default editor for git. 
